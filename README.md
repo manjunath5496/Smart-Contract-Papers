@@ -68,4 +68,35 @@ An Authenticated Data Feed for Smart Contracts</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(34).pdf" style="text-decoration:none;">Erays: Reverse Engineering Ethereum's Opaque Smart Contracts</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(35).pdf" style="text-decoration:none;">Towards Scaling Blockchain Systems via Sharding</a></li> 
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(36).pdf" style="text-decoration:none;">An Overview of Smart Contract and Use Cases in Blockchain Technology</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(37).pdf" style="text-decoration:none;">Blockchain-based Smart Contracts -
+Applications and Challenges</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(38).pdf" style="text-decoration:none;">An Overview on Smart Contracts: Challenges, Advances and Platforms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(39).pdf" style="text-decoration:none;">Smart contracts: Terminology, technical limitations and real world complexity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(40).pdf" style="text-decoration:none;">Blockchain Based Smart Contracts : A Systematic Mapping Study</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(41).pdf" style="text-decoration:none;">Smart Contract Development, Adoption and Challenges: The Powered Blockchain</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(42).pdf" style="text-decoration:none;">Smart Contracts on the Blockchain – A Bibliometric Analysis and Review</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(43).pdf" style="text-decoration:none;">Smart Contracts using Blockchain</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(44).pdf" style="text-decoration:none;">Blockchains and Smart Contracts for
+the Internet of Things</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(45).pdf" style="text-decoration:none;">The Role of Smart Contracts in Sustainability: Worldwide Research Trends</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(46).pdf" style="text-decoration:none;">A Concurrent Perspective on Smart Contracts</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(47).pdf" style="text-decoration:none;">SODA: A Generic Online Detection Framework for Smart Contracts</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(48).pdf" style="text-decoration:none;">Smart Contracts: Security Patterns in the Ethereum Ecosystem and Solidity</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(49).pdf" style="text-decoration:none;">The Law and Legality of Smart Contracts</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(50).pdf" style="text-decoration:none;">Model of Dynamic Smart Contract for
+permissioned Blockchains</a></li>
+
+  
+  
+  
+  
+  
 </ul>
