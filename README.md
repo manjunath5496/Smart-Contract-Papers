@@ -75,7 +75,7 @@ An Authenticated Data Feed for Smart Contracts</a></li>
 Applications and Challenges</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(38).pdf" style="text-decoration:none;">An Overview on Smart Contracts: Challenges, Advances and Platforms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(39).pdf" style="text-decoration:none;">Smart contracts: Terminology, technical limitations and real world complexity</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(40).pdf" style="text-decoration:none;">Blockchain Based Smart Contracts : A Systematic Mapping Study</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(40).pdf" style="text-decoration:none;">Smart Contracts: A Primer</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(41).pdf" style="text-decoration:none;">Smart Contract Development, Adoption and Challenges: The Powered Blockchain</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Smart-Contract-Papers/blob/master/con(42).pdf" style="text-decoration:none;">Smart Contracts on the Blockchain – A Bibliometric Analysis and Review</a></li>
  
